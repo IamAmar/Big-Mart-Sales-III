@@ -1,4 +1,4 @@
-# Big-Mart-Sales-III
+# Big Mart Sales III
 
 It is a machine learning hackathon organised by AnalyticsVidhya.
 
